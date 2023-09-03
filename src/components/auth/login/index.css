@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(55, 55, 150);  
+}
+.login-form{
+    max-width: 430px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 6px;
+    background: white; 
+}
+input{
+    /* height: 100%; */
+    width: 100%;
+    border: 1px solid #3333;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 6px;
+    margin: 5px auto;
+    padding: 10px;
+
+}
+.login{
+ 
+    width: 100%;
+    border: 1px solid  rgb(55, 55, 150);
+    background-color:  rgb(55, 55, 150);
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 5px auto;
+    color: white;
+}
+.header, a{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-size: 0.9rem;
+    margin: 10px auto;
+    font-weight:400;
+}
+.forgot{
+    margin-left: 6rem;
+}
+hr{
+    margin: 2.5rem auto;
+}
+.or{
+    font-weight: 200;
+    margin:5px 9rem;
+}
+
+
+
+
