@@ -1,5 +1,3 @@
-# React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -27,3 +25,4 @@ Currently, two official plugins are available:
 - Reset Password View
 
 ![ResetPass](https://github.com/prajwalsiwa/taskplanner_frontend/assets/96919195/abd388be-70f3-4412-a02f-38f5885d9349)
+
